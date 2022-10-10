@@ -3,5 +3,5 @@ from fastapi import FastAPI
 app = FastAPI()
 
 @app.get('/')
-def demo():
+def health_check():
     return {"status": "Working"}
