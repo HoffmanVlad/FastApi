@@ -71,8 +71,3 @@ UI https://semantic-ui.com/
 run - файл run.py, содержащий объект приложения app
 
     uvicorn main:app --reload --port 5000
-
-- [Ссылка на оригинал](https://youtu.be/3vfum74ggHE)
-- [Ссылка на видео с моего канала по данному примеру](https://youtu.be/nTbhOyLUTAI)
-
-  Терехов Михаил 2022 год
